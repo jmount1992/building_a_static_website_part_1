@@ -1,4 +1,6 @@
 
+# You do not need the baseurl in your configuration file.
+baseurl: /building_a_static_website_part_1
 
 timezone: Australia/Brisbane
 
